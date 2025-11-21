@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Website
 
 A modern, responsive portfolio website showcasing projects, skills, and experience.
@@ -140,3 +141,7 @@ This project is open source and available for personal use.
 
 ⭐ If you like this portfolio, give it a star!
 
+=======
+# Portfulio
+This repo contains my personal information 
+>>>>>>> d616c088423b48c4bcec1603525c50a72d546d17
