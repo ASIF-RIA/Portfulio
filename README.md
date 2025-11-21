@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Portfolio Website
 
 A modern, responsive portfolio website showcasing projects, skills, and experience.
@@ -24,7 +23,8 @@ portfulio/
 ├── index.html              # Main HTML file
 ├── profile.jpg.jpeg        # Profile image
 ├── README.md              # This file
-└── .gitignore             # Git ignore file
+├── .gitignore             # Git ignore file
+└── GITHUB_SETUP.md        # GitHub setup instructions
 ```
 
 ## 🛠️ Technologies Used
@@ -87,8 +87,8 @@ Modify the education timeline section (around line 856) to reflect your academic
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/portfulio.git
-   cd portfulio
+   git clone https://github.com/ASIF-RIA/Portfulio.git
+   cd Portfulio
    ```
 
 2. **Open in browser**:
@@ -110,6 +110,7 @@ Modify the education timeline section (around line 856) to reflect your academic
 - **profile.jpg.jpeg**: Profile/hero section image (recommended size: 400x400px or similar)
 - **README.md**: Project documentation
 - **.gitignore**: Git ignore rules
+- **GITHUB_SETUP.md**: GitHub repository setup instructions
 
 ## 🔧 Future Improvements
 
@@ -140,8 +141,3 @@ This project is open source and available for personal use.
 ---
 
 ⭐ If you like this portfolio, give it a star!
-
-=======
-# Portfulio
-This repo contains my personal information 
->>>>>>> d616c088423b48c4bcec1603525c50a72d546d17
