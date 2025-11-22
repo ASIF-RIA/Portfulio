@@ -187,3 +187,4 @@ If you need to update your portfolio:
 
 **Remember**: SEO takes time! It may take 1-4 weeks for Google to fully index your site and start showing it in search results. Be patient and keep updating your content regularly.
 
+

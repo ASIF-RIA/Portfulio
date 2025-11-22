@@ -197,3 +197,4 @@ Portfulio/
 
 **Remember**: The portfolio is already optimized for SEO. Just enable GitHub Pages and submit to Google Search Console, and Google will find it! 🚀
 
+
